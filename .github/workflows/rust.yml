@@ -40,4 +40,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/Frederick67/yolks-1:rust_${{ matrix.tag }}
+            ghcr.io/frederick67/yolks-1:rust_${{ matrix.tag }}
